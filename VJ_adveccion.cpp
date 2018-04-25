@@ -67,7 +67,7 @@ int main(){
 	 	}
 
 	
-
+// no esta funcionando porque imprime ceros
 	for (int t=0; t < 700-1; t++){
 
 			u[0][t+1]=u[0][t];
